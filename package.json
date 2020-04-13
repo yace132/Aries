@@ -1,0 +1,9 @@
+{
+  "name": "Aries",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "yace132 <10000reset@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": ["workspace-a", "workspace-b"]
+}
